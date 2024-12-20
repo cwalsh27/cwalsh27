@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Coleman Walsh
 
 
-- 🧑‍🎓 I’m a Computer Science (AI Concentration) and Cognitive Science (Linguistics Specialization) at the University of Delaware.
-  
-- 🌱 I'm currently learning advanced web development (Codecademy) and Machine Learning (Stanford Specialization). 
+- 🧑‍🎓 I’m a University of Delaware student majoring in computer science (AI/Robotics Concentration) and cognitive science (Linguistics Specialization) and minoring in neuroscience.
   
 - 📫 Contact me at colemanwalsh27@gmail.com
 
