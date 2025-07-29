@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Coleman Walsh
 
 
-- 🧑‍🎓 I’m a University of Delaware student majoring in computer science (AI/Robotics Concentration) and cognitive science (Linguistics Specialization) and minoring in neuroscience.
+- 🧑‍🎓 I’m an honors University of Delaware student majoring in computer science (AI/Robotics Concentration) and cognitive science (Linguistics Specialization) and minoring in neuroscience.
   
 - 📫 Contact me at colemanwalsh27@gmail.com
 
